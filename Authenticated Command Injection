@@ -1,8 +1,0 @@
-# 
-CVE-2024-9464
-: Palo Alto Expedition Authenticated Command Injection
-Proof of concept to exploit 
-CVE-2024-9464
- on vulnerable devices. This script chains the admin reset of 
-CVE-2024-5910
- to achieve "unauthenticated" arbitrary command execution.
