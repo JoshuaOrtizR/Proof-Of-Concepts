@@ -1,4 +1,4 @@
-## Vulnerability Types
+## Vulnerability Types:
 
 ## RCE (Remote Code Execution)
 - **Definition:** An attacker can execute arbitrary code on a remote system.
