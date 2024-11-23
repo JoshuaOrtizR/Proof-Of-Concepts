@@ -10,3 +10,5 @@ This section of my portfolio showcases a variety of real-world vulnerability typ
 - Key indicators of compromise (IoCs)
 - Root causes of vulnerabilities
 - Proof-of-concept (PoC) examples
+  
+**Due to internal policies, I'm unable to share specific confidential details. However, the information presented here offers a solid understanding of my role in defensive security, including my experience with vulnerability management and incident response**
