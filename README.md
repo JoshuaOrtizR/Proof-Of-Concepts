@@ -5,7 +5,7 @@ This section of my portfolio showcases a variety of real-world vulnerability typ
 
  - Real-world examples of vulnerabilities
 - How to identify and address each vulnerability
-- Key information to look for during your security assessments
+- Description and Assestment
 - Indicators of Compromise (IoCs)
 - Root Cause Analysis of Vulnerabilities
 - Proof-of-concept (PoC)
