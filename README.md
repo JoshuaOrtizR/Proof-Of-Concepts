@@ -3,7 +3,7 @@ Vulnerability Types, CVEs, Exploit Scripts, Security Documentation.
 
 This section of my portfolio showcases a variety of real-world vulnerability types. You'll find:
 
- - Real-world examples of vulnerabilities
+- Real-world Address Vulnerabilities 
 - How to identify and address each vulnerability
 - Description and Assestment
 - Indicators of Compromise (IoCs)
